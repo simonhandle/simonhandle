@@ -2,9 +2,9 @@
 
 ### A passionate ongoing Data Scientist from Austria.
 
-- 🔭 I'm currently working on **Implementing Machine Learning Models from Scratch.**
+- 🔭 I'm currently working on AI integrations and automations.
 
-- 🌱 I'm currently learning **Python and everything that comes along with it and other requirements for Data Science such as Linear Algebra.**
+- 🌱 I'm currently learning **to develop AI powereded systems efficiently and to deploy them effectively.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
