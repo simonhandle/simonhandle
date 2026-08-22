@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on AI integrations and automations.
 
-- 🌱 I'm currently learning **to develop AI powereded systems efficiently and to deploy them effectively.**
+- 🌱 I'm currently learning **to develop AI powered systems efficiently and to deploy them effectively.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
